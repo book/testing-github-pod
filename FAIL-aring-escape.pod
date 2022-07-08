@@ -1,0 +1,7 @@
+=encoding utf8
+
+=head1 escape: LATIN SMALL LETTER A WITH RING ABOVE
+
+E<aring>
+
+=cut

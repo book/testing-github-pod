@@ -1,0 +1,7 @@
+=encoding utf8
+
+=head1 escape: LATIN SMALL LETTER E WITH ACUTE
+
+E<eacute>
+
+=cut

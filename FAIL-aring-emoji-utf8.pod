@@ -1,0 +1,11 @@
+=encoding utf8
+
+=head1 utf8: LATIN SMALL LETTER A WITH RING ABOVE
+
+å - U+000E5 - LATIN SMALL LETTER A WITH RING ABOVE
+
+=head1 utf8: PILE OF POO
+
+💩 - U+1F4A9 - PILE OF POO
+
+=cut
